@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int kthSmallest(vector<vector<int>>& matrix, int k) {
+        vector<int> nums ;
+        int n = matrix.size();
+        int m = matrix[0].size();
+        for(int i =0 ; i < n ; i++){
+            for(int j = 0 ; j < m ; j++){
+                nums.push_back(matrix[i][j]);
+            }
+        }
+        sort(nums.begin(), nums.end());
+        int s = nums.size();
+        return nums[k-1];
+    }
+};
