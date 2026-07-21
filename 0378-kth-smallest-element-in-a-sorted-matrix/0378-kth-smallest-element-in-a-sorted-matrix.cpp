@@ -10,7 +10,6 @@ public:
             }
         }
         sort(nums.begin(), nums.end());
-        int s = nums.size();
         return nums[k-1];
     }
 };
