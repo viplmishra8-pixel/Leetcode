@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0152-maximum-product-subarray](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1260-shift-2d-grid](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
