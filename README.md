@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1260-shift-2d-grid](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
