@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0055-jump-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
