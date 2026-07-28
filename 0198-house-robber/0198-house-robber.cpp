@@ -1,5 +1,20 @@
 class Solution {
 public:
+    int rob(vector<int>& nums){
+        if(nums.size() == 0 ){
+            return 0 ; 
+        }
+        int max1 = 0 ;
+        int max2 = 0 ; 
+        for(auto it : nums){
+            int temp = max1 ;
+            max1 = max( max2 +it  , max1);
+            max2 = temp ;
+        }
+        return max1 ;
+    }
+};
+/*
     int rob(vector<int>& nums) {
         int n = nums.size();
 
