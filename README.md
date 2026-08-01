@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0213-house-robber-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -113,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
