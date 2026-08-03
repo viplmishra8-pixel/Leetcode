@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Euclidean Algorithm
 |  |
 | ------- |
