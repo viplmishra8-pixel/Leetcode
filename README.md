@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0213-house-robber-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
