@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -188,10 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
