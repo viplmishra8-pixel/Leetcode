@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0877-stone-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1260-shift-2d-grid](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0877-stone-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -201,4 +204,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
