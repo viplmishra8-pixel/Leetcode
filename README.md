@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -226,5 +229,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
