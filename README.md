@@ -231,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
