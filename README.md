@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1260-shift-2d-grid](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
