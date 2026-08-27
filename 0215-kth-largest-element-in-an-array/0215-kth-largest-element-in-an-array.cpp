@@ -6,10 +6,9 @@ public:
             pq.push(x);
         }
         int res = 0 ;
-        while(k >0){
-            res = pq.top();
+        for(int i = 0 ; i < k ; i++){
+            res  = pq.top();
             pq.pop();
-            k-- ;
         }
         return res ;
     }
