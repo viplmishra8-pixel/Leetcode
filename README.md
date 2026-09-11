@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
