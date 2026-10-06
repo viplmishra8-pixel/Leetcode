@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0055-jump-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/viplmishra8-pixel/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
 |  |
@@ -319,5 +321,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/viplmishra8-pixel/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
