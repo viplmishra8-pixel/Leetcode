@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0213-house-robber-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0877-stone-game) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
