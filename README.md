@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0740-delete-and-earn](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1260-shift-2d-grid](https://github.com/viplmishra8-pixel/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0740-delete-and-earn) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0740-delete-and-earn](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/viplmishra8-pixel/Leetcode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
